@@ -1,0 +1,15 @@
+# Archivos objeto compilados
+*.o
+
+# Ejecutables (evita subir los binarios generados)
+fat16
+fat16-info
+fat16-ls
+fat16-fileclusters
+fat16-sh
+fat16-sh-cat
+fat16-sh-rm
+
+# Archivos de configuración de entornos de desarrollo
+.vscode/
+.idea/
